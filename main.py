@@ -36,3 +36,22 @@ for player in fifa:
                     "Club":player['Club']
                     })
 
+
+for player in lst_of_players:
+        name = player["Name"]
+        age = player['Age']
+        potential = player["Potential"]
+        overall = player["Overall"]
+        value = player['Value']
+        wage = player['Wage']
+        pos = player['Position']
+        club = player['Club']
+        player_bio = open('player_bio_file.txt', 'a')
+        player_bio.write('\n'+"-"*50+f"\nThis is from Manager {manager} in search of {p_position}")
+        player_bio.write(f"""\nPLAYER BIO:
+This player's name is {name} and he is {age} years old.
+His current rating is {overall} and he's potential is {potential}
+His value is {value} and his wage is {wage}. His current position is {pos}.
+Also he currently plays for {club}
+""")
+        player_bio.close()
