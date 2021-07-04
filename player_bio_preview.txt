@@ -1,0 +1,224 @@
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is H. Kane and he is 24 years old.
+His current rating is 89 and he's potential is 91
+His value is €83.5M and his wage is €205K. His current position is ST.
+Also he currently plays for Tottenham Hotspur
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Icardi and he is 25 years old.
+His current rating is 87 and he's potential is 90
+His value is €64.5M and his wage is €130K. His current position is ST.
+Also he currently plays for Inter
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is R. Lukaku and he is 25 years old.
+His current rating is 87 and he's potential is 89
+His value is €62.5M and his wage is €230K. His current position is ST.
+Also he currently plays for Manchester United
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Depay and he is 24 years old.
+His current rating is 84 and he's potential is 89
+His value is €42M and his wage is €93K. His current position is ST.
+Also he currently plays for Olympique Lyonnais
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Gabriel Jesus and he is 21 years old.
+His current rating is 83 and he's potential is 92
+His value is €41M and his wage is €130K. His current position is ST.
+Also he currently plays for Manchester City
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is S. Gnabry and he is 22 years old.
+His current rating is 83 and he's potential is 88
+His value is €34.5M and his wage is €85K. His current position is ST.
+Also he currently plays for FC Bayern München
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Morata and he is 25 years old.
+His current rating is 82 and he's potential is 85
+His value is €28.5M and his wage is €135K. His current position is ST.
+Also he currently plays for Chelsea
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Paco Alcácer and he is 24 years old.
+His current rating is 81 and he's potential is 85
+His value is €23.5M and his wage is €59K. His current position is ST.
+Also he currently plays for Borussia Dortmund
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Gómez and he is 21 years old.
+His current rating is 80 and he's potential is 85
+His value is €20.5M and his wage is €25K. His current position is ST.
+Also he currently plays for RC Celta
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Mariano and he is 24 years old.
+His current rating is 80 and he's potential is 85
+His value is €20M and his wage is €140K. His current position is ST.
+Also he currently plays for Real Madrid
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Richarlison and he is 21 years old.
+His current rating is 79 and he's potential is 86
+His value is €18M and his wage is €79K. His current position is ST.
+Also he currently plays for Everton
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is L. Martínez and he is 20 years old.
+His current rating is 79 and he's potential is 86
+His value is €18M and his wage is €54K. His current position is ST.
+Also he currently plays for Inter
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is André Silva and he is 22 years old.
+His current rating is 79 and he's potential is 87
+His value is €19M and his wage is €84K. His current position is ST.
+Also he currently plays for Sevilla FC
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is A. Sanabria and he is 22 years old.
+His current rating is 79 and he's potential is 85
+His value is €17.5M and his wage is €27K. His current position is ST.
+Also he currently plays for Real Betis
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is G. Simeone and he is 22 years old.
+His current rating is 78 and he's potential is 85
+His value is €15M and his wage is €53K. His current position is ST.
+Also he currently plays for Fiorentina
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is J. Augustin and he is 21 years old.
+His current rating is 77 and he's potential is 85
+His value is €13.5M and his wage is €39K. His current position is ST.
+Also he currently plays for RB Leipzig
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is P. Schick and he is 22 years old.
+His current rating is 77 and he's potential is 86
+His value is €14M and his wage is €53K. His current position is ST.
+Also he currently plays for Roma
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is H. Onyekuru and he is 21 years old.
+His current rating is 76 and he's potential is 86
+His value is €12.5M and his wage is €56K. His current position is ST.
+Also he currently plays for Galatasaray SK
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is K. Dolberg and he is 20 years old.
+His current rating is 76 and he's potential is 85
+His value is €12M and his wage is €15K. His current position is ST.
+Also he currently plays for Ajax
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Dembélé and he is 21 years old.
+His current rating is 76 and he's potential is 85
+His value is €12M and his wage is €43K. His current position is ST.
+Also he currently plays for Olympique Lyonnais
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is B. Embolo and he is 21 years old.
+His current rating is 76 and he's potential is 86
+His value is €12.5M and his wage is €24K. His current position is ST.
+Also he currently plays for FC Schalke 04
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Felipe Vizeu and he is 21 years old.
+His current rating is 75 and he's potential is 87
+His value is €12M and his wage is €21K. His current position is ST.
+Also he currently plays for Udinese
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is T. Abraham and he is 20 years old.
+His current rating is 74 and he's potential is 85
+His value is €10M and his wage is €59K. His current position is ST.
+Also he currently plays for Aston Villa
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Rafael Leão and he is 19 years old.
+His current rating is 72 and he's potential is 86
+His value is €6.5M and his wage is €12K. His current position is ST.
+Also he currently plays for LOSC Lille
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Kean and he is 18 years old.
+His current rating is 72 and he's potential is 87
+His value is €6.5M and his wage is €32K. His current position is ST.
+Also he currently plays for Juventus
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Maolida and he is 19 years old.
+His current rating is 71 and he's potential is 85
+His value is €5M and his wage is €11K. His current position is ST.
+Also he currently plays for OGC Nice
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is M. Romero and he is 19 years old.
+His current rating is 70 and he's potential is 85
+His value is €3.8M and his wage is €5K. His current position is ST.
+Also he currently plays for PSV
+
+--------------------------------------------------
+This is from Manager JCU in search of ST
+PLAYER BIO:
+This player's name is Matheus Cunha and he is 19 years old.
+His current rating is 70 and he's potential is 85
+His value is €3.8M and his wage is €14K. His current position is ST.
+Also he currently plays for RB Leipzig
