@@ -1,5 +1,5 @@
 # FM Assistant
-**by Jason Umahi**
+**by JCU**
 
 **This app actually uses the Fifa 19 Dataset**
 
