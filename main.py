@@ -6,18 +6,13 @@ fifa = csv.DictReader(fifa_data)
 print("WELCOME TO FIFA MANAGER ASSISTANT")
 print("Note that this software uses Fifa 19 dataset.")
 
-# manager = str(input("WHAT IS YOUR NAME? ")).upper()
-manager = "JASON UMAHI"
+manager = str(input("WHAT IS YOUR NAME? ")).upper()
 
 print("\nWelcome to the player window search".upper())
-# p_position = str(input("What position are you looking for:")).upper()
-# p_age = int(input("What is the highest age you're looking for: "))
-# p_overall = int(input("What is the least rating you would like: "))
-# p_potential = int(input("What is the least potential you would like: "))
-p_position = "ST"
-p_age = int(25)
-p_overall = int(70)
-p_potential = int(85)
+p_position = str(input("What position are you looking for:")).upper()
+p_age = int(input("What is the highest age you're looking for: "))
+p_overall = int(input("What is the least rating you would like: "))
+p_potential = int(input("What is the least potential you would like: "))
 
 
 lst_of_players = []
