@@ -9,10 +9,15 @@ print("Note that this software uses Fifa 19 dataset.")
 manager = str(input("WHAT IS YOUR NAME? ")).upper()
 
 print("\nWelcome to the player window search".upper())
-p_position = str(input("What position are you looking for:")).upper()
+p_position = str(input(
+"""
+What position are you looking for:
+Postions: CAM, CB, CDM, CF, CB, GK, LB, LCM, LCB LAM, LF, LM, LW, LWB, RB, RCM, RCB RAM, RF, RM, RW, RWB, ST
+"""
+)).upper()
 p_age = int(input("What is the highest age you're looking for: "))
-p_overall = int(input("What is the least rating you would like: "))
-p_potential = int(input("What is the least potential you would like: "))
+p_overall = int(input("What is the least rating you would like(0-100): "))
+p_potential = int(input("What is the least potential you would like(0-100): "))
 
 
 lst_of_players = []
@@ -42,6 +47,7 @@ for player in lst_of_players:
         pos = player['Position']
         club = player['Club']
         player_bio = open('player_bio_file.txt', 'a')
+        player_bio.seek(0, 0)
         player_bio.write('\n'+"-"*50+f"\nThis is from Manager {manager} in search of {p_position}")
         player_bio.write(f"""\nPLAYER BIO:
 This player's name is {name} and he is {age} years old.
@@ -50,3 +56,6 @@ His value is {value} and his wage is {wage}. His current position is {pos}.
 Also he currently plays for {club}
 """)
         player_bio.close()
+
+
+print("Player data has been written into player_bio_file.txt. Check it out!!!")
